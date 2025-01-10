@@ -72,7 +72,7 @@ li a {
 }
 
 .infowrapper h3 {
-  color: #636060;
+  color: black;
   font-family: Helvetica;
   font-size: 17px;
   font-style: normal;
@@ -82,18 +82,8 @@ li a {
   margin-top: 20px;
 }
 
-.infowrapper h2 {
-  color: #010101;
-  font-family: Helvetica;
-  font-size: 28px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-bottom: 37px;
-}
-
 .infowrapper p {
-  color: #636060;
+  color: black;
   font-family: Helvetica;
   font-size: 20px;
   font-style: normal;
@@ -381,6 +371,125 @@ h2 {
 
 /*index.html დასრულდა */
 
-.th1 {
+.aimg {
+  width: 1240px;
+  height: 512px;
+  flex-shrink: 0;
+}
+
+.ah3 {
+  color: #000;
+  font-family: "Rockwell Extra Bold";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 15px;
+}
+
+.ap {
+  color: #000;
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 111.111% */
+  margin-bottom: 20px;
+}
+
+.aa {
   color: red;
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 111.111% */
+  margin-top: 20px;
+}
+
+.newsimg {
+  width: 1240px;
+  height: 480px;
+  flex-shrink: 0;
+}
+
+.h11 {
+  color: #000;
+  font-family: "Rockwell Extra Bold";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+
+.h33 {
+  color: #000;
+  font-family: "Rockwell Extra Bold";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+
+.np {
+  color: #000;
+  font-family: Rockwell;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 111.111% */
+  margin-bottom: 15px;
+}
+
+.h333 {
+  color: #000;
+  font-family: "Rockwell Extra Bold";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+
+.np2 {
+  color: #000;
+  font-family: Rockwell;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 111.111% */
+  margin-bottom: 15px;
+}
+
+.s5 {
+  background-color: #e7e7e7;
+  padding: 100px 0 100px 100px;
+}
+
+.ch3 {
+  color: black;
+  font-family: "Helvetica Neue";
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 15px;
+}
+
+.cp {
+  color: black;
+  font-family: "Helvetica Neue LT GEO";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+
+.contactdiv {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 60px;
 }
